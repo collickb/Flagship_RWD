@@ -1,0 +1,28 @@
+Flagship Responsive Web Development
+===================================
+
+
+The Flagship_RWD repository is a collaborative project 
+to mature the layout of adventist.org to a competitive standard. 
+
+What exists currently is a template which is being refined 
+for usage as a third version of adventist.org. Upon reaching a point, 
+it will then expand to contain transitional versions between 2.0 and 3.0, 
+introducing changes without disorienting users.
+
+Upon completion, we will release the repository to the public for 
+the expressed intent of providing a functional, attractive template
+at no cost to all interested in developing sites for Adventist entities 
+and organizations. Additionally, this release we hope will encourage
+open source development of Adventist online presence from the 
+headquarters to the individual church member.
+
+
+Contents:
+=========
+
+index.html			(sample html)
+styles.css			(single stylesheet to control which /css stylesheets are called)
+/css				(css stylesheets)
+/images				(all graphics)
+/js					(javascript)
