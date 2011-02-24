@@ -1,0 +1,6 @@
+@import url(css/reset.css);
+@import url(css/layout.css);
+
+/* comment out this after initial diagnostics */
+@import url(css/diagnostic.css);
+/* comment out this after initial diagnostics */

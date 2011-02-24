@@ -1,0 +1,118 @@
+/**********container starts here**********/
+#container{width:968px; margin:0 auto; overflow:hidden; padding-bottom:5px; background:url(../images/page_bottom_bg.gif) no-repeat 0 100%;}
+#container-inner{width:960px; float:left; padding:0 4px; background:url(../images/container_bg.gif) repeat-y 0 0;}
+/**********header starts here**********/
+#header{width:100%; float:left; }
+#header-inner{width:100%; float:left;}
+#header .left_section{ float:left; width: 315px; height: 400px; position:absolute; left:-1px; top:0; }
+#header .logo{width:260px; float:left; padding:27px 0 0 10px;}
+#header .logo img{width: 285px; float:left;}
+
+#search_area{width: 300px; float:left; margin:22px 0 0; padding:4px 0 0; background:url(../images/serach_rep_bg.png) no-repeat -15px 0; height: 277px;}
+#search_area h2{ padding-left: 0px; text-align: center; float:left; width:300px;color:#fff; height: 30px; font: 1.1em/38px minion-pro-1, minion-pro-2, serif; text-transform:uppercase; position:relative}
+#search_area ul{ float:left; width:250px; list-style:none; padding:5px 0 0 18px; position:relative }
+#search_area ul li{ float:left; width:210px; padding:13px 18px 18px 22px; background:url(../images/line_sep.gif) no-repeat 0 100%; font:1em Arial, Helvetica, sans-serif; color:#fff;}
+#search_area ul li a{ font-family: cora-1, cora-2, sans-serif; float:left; color:#000; width:220px; background: no-repeat right 50%;}
+#search_area .search_form{ float:left; width:250px; padding:11px 0 0 38px; position:relative}
+#search_area .search_form h3{ display:block; font:1em cora-1, cora-2, sans-serif; padding:0 0 12px; color:#000;}
+#search_area .search_form .input_bg{ float:left; width:176px; height:16px; padding:8px 4px; background:url(../images/search_input_bg.gif) no-repeat 0 0;}
+#search_area .search_form .input_bg input{ float:left; width:176px; height:15px; padding:0; background:none; font:0.88em/15px Arial, Helvetica, sans-serif; border:none}
+#search_area .search_form input.search_btn{ float:left; width:36px; height:32px; padding:0; background:url(../images/search_btn.gif) no-repeat 0 0;cursor:pointer; border:none}
+
+/**********header ends here**********/
+.row{ float:left; width:100%;}
+/**********banner starts here**********/
+#banner{background-image: url(../images/banner02.jpg); width:100%; float:left; height: 465px; position:relative;}
+#banner img{ float:left}
+/**********banner ends here**********/
+
+/**********content starts here**********/
+#content{font-family: minion-pro-1, minon-pro-2, serif; width:100%; float:left; line-height: 1.6; margin: 0 0 10px 0;}
+#content-inner{width:100%; float:left; padding-top:3px;}
+
+/**********menu starts here**********/
+#menu{ float:left; width:100%; height:51px; background:url(../images/menu_bg.jpg) no-repeat 0 0;}
+#menu ul{ list-style:none}
+#menu ul li{ float:left; font:1.05em cora-1, cora-2, sans-serif; color:#02323c; padding:0 20px;}
+#menu ul li a{ float:left; padding:15px 5px 19px; color:#e0e0e0; text-decoration:none}
+#menu ul li.first{ padding-left:6px;}
+#menu ul li a:hover, #menu ul li a.active{ color:#fff; background:url(../images/menu_hover_bg.gif) repeat-x 0 bottom}
+
+/**********alpha starts here**********/
+#alpha{width:600px; float:left;}
+#alpha-inner{width:569px; float:left; padding:35px 0 0 31px;}
+#alpha h1{ display:block; padding:0 0 12px; font:2em; color:#13504d;}
+#alpha h2{ display:block; padding:8px 0 12px; font:1.88em; color:#13504d;}
+#alpha p{ display:block; font-size: 1em; line-height:1.85em; padding:0 0 20px;} 
+#alpha p a{ color:#1C4731;}
+
+#alpha ul {padding-left: 25px; margin-bottom: 10px;}
+#alpha li a{ color:#1C4731;}
+
+#alpha .common-box-outer{ float:left; width:100%; padding:15px 0 0;}
+#alpha .common_box{ float:left; width:240px;}
+#alpha .common_box h4{ font:1.63em Georgia, "Times New Roman", Times, serif; color:#13504d; padding:0 0 10px;}
+#alpha .common_box p{ line-height:1.31em; color:#222;}
+#alpha .common_box ul{ list-style:none}
+#alpha .common_box ul li{ display:block; padding:0 0 15px;}
+#alpha .common_box.spl_feature{ padding-left:80px;}
+#alpha .common_box ul li a{ color:#1C4731}
+
+#featured_section{ float:left; width:929px; padding:50px 0 33px 31px; border-bottom:3px solid #d5e3e5;}
+#featured_section ul{ list-style:none}
+#featured_section ul li{ float:left; padding-right:60px;}
+#featured_section ul li.last{ padding-right:0}
+#featured_section ul li img{ float:left}
+/**********alpha ends here**********/
+
+/**********beta starts here**********/
+#beta{width:314px; float:right;}
+#beta h1{ padding-bottom: 10px; font-family: minion-pro-1, minion-pro-2, serif; font-size: 1.3em; color: #1C4731;}
+#beta ul li{padding-left: 10px; padding-bottom: 35px; list-style-type: none;}
+#beta ul li img{ padding-top: 2px; border-right-width: 1px; border-right-color: black; border-right-style: solid; margin-right: 5px; padding-right: 5px; padding-bottom: 2px; float: left; height: 60px; width: 60px;}
+#beta ul li .position{font-style: italic;}
+#beta a{ color: #1C4731;}
+#beta-inner{padding-left: 0; padding-bottom: 0; padding-right: 0; padding-top: 25px; width:314px; float:left;}
+.widget{width:314px; float:left;}
+
+.new_resource{ float:left; width:314px; background:url(../images/brawn_rep_bg.gif) repeat-y 0 0; font-family:Arial, Helvetica, sans-serif}
+.new_resource .top_bg{ float:left; width:100%; background:url(../images/brawn_top_bg.gif) no-repeat 0 0;}
+.new_resource .bottom_bg{ float:left; width:265px; background:url(../images/brawn_bottom_bg.gif) no-repeat 0 bottom; padding:22px 25px 20px 24px;}
+.new_resource h2{ font-size:1.63em; font-weight:normal; color:#fff; padding:0 0 12px;}
+.new_resource p{ display:block; line-height:1.13em; font-size:0.80em; color:#fff; padding:0 0 5px 3px; clear:both}
+.new_resource p.top{ font-size:0.81em;}
+.new_resource p.top span{ display:block; color: #1C4731; padding-top:7px;}
+.new_resource p img.thumb{ float:left; margin-right:18px; margin-bottom:5px; margin-left:-3px;}
+
+.video_section{ float:left; width:260px; padding:46px 0 0 25px;}
+.video_section h2{padding:0 0 20px;font:1.63em Georgia, "Times New Roman", Times, serif; color: #1C4731;}
+.video_section .video_area{ float:left; width:260px; height:170px;}
+.video_section .video_area img{ float:left}
+/**********beta ends here**********/
+
+/**********bottom section**********/
+#bottom_container{ float:left; width:958px; margin:0 1px; display:inline; background:url(../images/divider_line.gif) repeat-y 0 0;}
+#bottom_container .box{ float:left; width:479px;}
+#bottom_container .box h2{ height:40px; background:url(../images/strip_bg.gif) repeat-x 0 0; color:#fff; font:1.1em/40px cora-1, cora-2, sans-serif; padding-left:24px; position:relative}
+#bottom_container .box h2.orange{ font-size: 1.1em; font-family: cora-1, cora-2, sans-serif; padding-left:17px;background:url(../images/orange_strip.gif) repeat-x 0 0; }
+#bottom_container .box h2 em{ position:absolute; width:18px; height:19px; right:15px; top:11px;}
+#bottom_container .box h2 em img{ float:left}
+#bottom_container ul.family_links{ float:left; width:200px; padding:11px 0 0 30px; list-style:none}
+#bottom_container ul.family_links.right{ padding-left:40px;}
+#bottom_container ul.family_links li{ display:block; padding:5px 0 5px 17px; background:url(../images/disc_bg.gif) no-repeat 0 50%; font:1em minion-pro-1, minion-pro-2, serif; color:#1C4731;}
+#bottom_container ul.family_links li a{ color:#1C4731;}
+
+#bottom_container ul.news_list{ float:left; width:430px; padding:18px 0 0 17px; list-style:none}
+#bottom_container ul.news_list li{ float:left; width:100%; padding:0 0 20px; font:1em/18px minion-pro-1, minion-pro-2, serif; color:#1C4731;}
+#bottom_container ul.news_list li.last{ padding-bottom:15px;}
+#bottom_container ul.news_list li img{ float:left; margin-right:22px;}
+#bottom_container ul.news_list li a{text-decoration: underline; color: black;} 
+/**********content ends here**********/
+
+/**********footer starts here**********/
+#footer{width:958px; float:left; margin:0 1px; display:inline}
+#footer-inner{width:100%; float:left; background:#222;}
+#footer span{ float:left; padding:23px 0 0 32px;}
+#footer p{ padding-left: 0; padding-bottom: 10px; padding-right: 30px; padding-top: 20px; float:right; width:410px; font:0.8em/1.7em cora-1, cora-2, sans-serif; letter-spacing:1px; color:#fff;}
+/**********footer ends here**********/
+/**********container ends here**********/
